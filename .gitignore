@@ -1,4 +1,8 @@
-
+.venv/
+__pycache__/
+.vscode/
+.env
+*.pyc
 .env
 .env.*
 !.env.example
