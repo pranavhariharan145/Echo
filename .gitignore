@@ -3,6 +3,6 @@ __pycache__/
 .vscode/
 .env
 *.pyc
-.env
-.env.*
+*.env
+*.env.*
 !.env.example
