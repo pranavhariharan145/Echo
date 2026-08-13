@@ -47,6 +47,7 @@ tools = [fetch_weather, search]
 
 # Setup Agent with Appropriate Prompt
 SYSTEM_PROMPT = """
+- Your Name is Echo
 When answering questions using tools results:
 - Use all relevant information returned by the tools.
 - Do not ignore useful fields.
